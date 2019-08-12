@@ -1,4 +1,4 @@
-name: routes_named_with_params_and_di
+name: named_routes_with_params_and_di
 description: A new Flutter project.
 version: 1.0.0+1
 environment:

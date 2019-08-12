@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
-import 'package:routes_named_with_params_and_di/view/view_1.dart';
-import 'package:routes_named_with_params_and_di/view/view_2.dart';
-import 'package:routes_named_with_params_and_di/view/view_3.dart';
+import 'package:named_routes_with_params_and_di/view/view_1.dart';
+import 'package:named_routes_with_params_and_di/view/view_2.dart';
+import 'package:named_routes_with_params_and_di/view/view_3.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'routes.dart';
 

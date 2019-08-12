@@ -1,4 +1,4 @@
-# routes_named_with_params_and_di
+# named_routes_with_params_and_di
 
 A new Flutter project.
 
